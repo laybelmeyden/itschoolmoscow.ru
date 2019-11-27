@@ -86,6 +86,6 @@ class MainController extends Controller
      });
 
      back()->with('message_1', 'Ваш вопрос отправлен куратору школы и в ближайшее время мы свяжемся с вами, чтобы ответить на него!');
-     return redirect('#footer')->with('message', 'СПАСИБО ЗА ВАШУ АКТИВНОСТЬ И ИНТЕРЕС!');
+     return redirect('/contact#footer')->with('message', 'СПАСИБО ЗА ВАШУ АКТИВНОСТЬ И ИНТЕРЕС!');
     }
 }

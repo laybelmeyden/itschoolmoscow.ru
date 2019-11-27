@@ -5,7 +5,7 @@
     <p>Вы можете написать нам на электронную почту: <a href="mailto:info@rusinnovations.com">info@rusinnovations.com</a> или через форму обратной связи</p>
     </div>
     <div class="form_right">
-    <form class="fs-form fs-form-full" method="POST" action="/contact">
+    <form class="fs-form fs-form-full" method="POST" action="/contact#footer">
     {{ csrf_field() }}
             <div>
             <input type="text" name="phone" class="input_footer frm_1" placeholder="Имя" required>
