@@ -1450,6 +1450,7 @@ body {
         align-items: center;
         flex-direction: column;
         height: 900px;
+        border-radius: 0;
     }
     
     .footer_modal h2 {
