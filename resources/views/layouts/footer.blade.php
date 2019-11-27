@@ -1,5 +1,20 @@
 <footer id="footer">
 <div class="flex_footer">
+@if(session('message'))
+    <div class="block_left" style="
+    background: #9FCE0D;
+    box-shadow: 6px 0px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 213.5px 213.5px 0px;
+    min-width: 100%;
+    height: 427px;
+    position: absolute;
+    margin-right: 57px;
+    z-index: 9999;
+    text-align: center;">
+    <h2 style="text-align:center;">{{ session('message') }}</h2>
+    <p>{{ session('message_1') }}</p>
+    </div>
+@endif
     <div class="block_left">
     <h2>ВОЗНИКЛИ ВОПРОСЫ?</h2>
     <p>Вы можете написать нам на электронную почту: <a href="mailto:info@rusinnovations.com">info@rusinnovations.com</a> или через форму обратной связи</p>
@@ -44,19 +59,4 @@
             <p>Сайт разработан с использованием средств Гранта Мэра Москвы для социально ориентированных некоммерческих организаций</p>
         </div>
 </div>
-@if(session('message'))
-    <div class="block_left" style="
-    background: #9FCE0D;
-    box-shadow: 6px 0px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 0px 213.5px 213.5px 0px;
-    min-width: 100%;
-    height: 427px;
-    position: absolute;
-    margin-right: 57px;
-    z-index: 9999;
-    text-align: center;">
-    <h2 style="text-align:center;">{{ session('message') }}</h2>
-    <p>{{ session('message_1') }}</p>
-    </div>
-@endif
 </footer>
