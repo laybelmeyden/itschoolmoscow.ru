@@ -1283,7 +1283,7 @@ body {
     font-style: normal;
     font-weight: 300;
     font-size: 36px;
-    line-height: 14px;
+    line-height: normal;
     /* or 39% */
     
     color: #000000;
@@ -1449,6 +1449,7 @@ body {
         justify-content: center;
         align-items: center;
         flex-direction: column;
+        height: 900px;
     }
     
     .footer_modal h2 {
