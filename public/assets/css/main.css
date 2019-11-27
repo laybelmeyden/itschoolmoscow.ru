@@ -1444,6 +1444,60 @@ body {
     }
 }
 @media only screen and (max-width: 992px) {
+    .green_header_uchast h1 {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 48px;
+        color: #3F3359;
+        margin: 0;
+        text-transform: uppercase;
+    }
+    
+    .green_header_uchast h3 {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 48px;
+        color: #3F3359;
+        margin: 0;
+        padding-top: 0px;
+    }
+    
+    .green_header_uchast p {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 48px;
+        color: #000000;
+        margin: 0;
+        padding-top: 6px;
+        padding-bottom: 10px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    
+    #header_uchast_project {
+        height: 295px;
+    }
+    
+    .btn_footer {
+        background: linear-gradient(280.91deg, #3F3359 -11.42%, #5D4A86 93.74%), #3F3359;
+        border-radius: 60px;
+        width: 218px;
+        height: 59px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 26px;
+        letter-spacing: 0.2em;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 0px;
+    }
+    
     .footer_modal {
         display: flex;
         justify-content: center;
