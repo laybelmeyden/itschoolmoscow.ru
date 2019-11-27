@@ -10,6 +10,9 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
+});
 
 Route::get('/', 'MainController@index');
 Route::get('/uchastnikam', 'MainController@uchast');
@@ -34,6 +37,3 @@ Route::get('/district12', 'MainController@district12');
 Route::post('/contact', 'MainController@contact');
 
 
-Route::group(['prefix' => 'admin'], function () {
-    Voyager::routes();
-});
