@@ -34,6 +34,6 @@ Route::get('/district10', 'MainController@district10');
 Route::get('/district11', 'MainController@district11');
 Route::get('/district12', 'MainController@district12');
 
-Route::post('/contact#footer', 'MainController@contact');
+Route::post('/contact', 'MainController@contact');
 
 
