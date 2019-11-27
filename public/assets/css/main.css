@@ -1427,11 +1427,6 @@ body {
         padding-bottom: 20px;
     }
     
-    .tab {
-        padding-top: 20px !important;
-        height: 150px !important;
-    }
-    
     .right_pald {
         border-right: 0px solid white;
     }
@@ -1484,7 +1479,7 @@ body {
         right: 0;
         display: flex;
         justify-content: center;
-        align-items: end;
+        align-items: center;
         padding: 0;
         text-align: center;
     }
