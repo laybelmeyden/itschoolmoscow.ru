@@ -576,6 +576,8 @@ textarea {
     padding-top: 32px;
     padding-bottom: 37px;
     padding-right: 75px;
+    height: 112px;
+    overflow: hidden;
 }
 .news_body h3 {
     font-style: normal;
@@ -587,6 +589,8 @@ textarea {
     color: #585858;
     margin: 0;
     padding-right: 75px;
+    height: 60px;
+    overflow: hidden;
 }
 .news_body .btn {
     width: 128px;
@@ -1257,13 +1261,13 @@ body {
 .green_header_uchast h1 {
     font-style: normal;
     font-weight: normal;
-    font-size: 36px;
+    font-size: 26px;
     line-height: 48px;
-    /* or 133% */
-    
     color: #3F3359;
     margin: 0;
     text-transform: uppercase;
+    height: 90%;
+    overflow: hidden;
 }
 .footer_modal {
     background: #9FCE0D;
