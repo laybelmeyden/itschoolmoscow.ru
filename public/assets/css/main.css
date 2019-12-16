@@ -1270,6 +1270,9 @@ body {
     text-transform: uppercase;
     height: 100%;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .footer_modal {
     background: #9FCE0D;
