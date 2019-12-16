@@ -78,12 +78,11 @@ class MainController extends Controller
         'contact_email' => request('contact_email'),
         'text_contact' => request('text_contact'),
       );
-
        \Mail::send('email.mailcontact', $data, function($message_contact) use ($data)
     {
         $mail_admin = env('MAIL_ADMIN_CONTACT');
         $message_contact->from($data['email'],$data['contact_email'],$data['phone'], $data['text_contact']);
-        $message_contact->to($mail_admin, 'AIR')->subject('Message from site');
+        $message_contact->to($mail_admin, 'For Admin')->subject('Message from site');
      });
 
      back()->with('message_1', 'Ваш вопрос отправлен куратору школы и в ближайшее время мы свяжемся с вами, чтобы ответить на него!');
