@@ -1261,13 +1261,13 @@ body {
 .green_header_uchast h1 {
     font-style: normal;
     font-weight: normal;
-    font-size: 26px;
+    font-size: 36px;
     line-height: 48px;
+    /* or 133% */
+    
     color: #3F3359;
     margin: 0;
     text-transform: uppercase;
-    height: 90%;
-    overflow: hidden;
 }
 .footer_modal {
     background: #9FCE0D;
