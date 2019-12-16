@@ -1268,6 +1268,8 @@ body {
     color: #3F3359;
     margin: 0;
     text-transform: uppercase;
+    height: 100%;
+    overflow: hidden;
 }
 .footer_modal {
     background: #9FCE0D;
