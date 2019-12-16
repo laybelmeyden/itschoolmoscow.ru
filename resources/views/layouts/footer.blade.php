@@ -13,6 +13,7 @@
     <div class="form_right">
     <form class="fs-form fs-form-full" method="POST" action="/contact">
     {{ csrf_field() }}
+    <input type="hidden" name="phone" class="input_footer frm_1" placeholder="Имя" value="info@rusinnovations.com">
             <div>
             <input type="text" name="phone" class="input_footer frm_1" placeholder="Имя" required>
             </div>
