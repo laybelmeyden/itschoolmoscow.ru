@@ -82,7 +82,7 @@ class MainController extends Controller
     );
       Mail::send('email.mailcontact', $data, function($message) use ($data, $to_email, $to_name)
       {
-        $message->from($data['contact_email'],$data['phone'], $data['text_contact']);
+        $message->from($to_email, $data['contact_email'],$data['phone'], $data['text_contact']);
         $message->to($to_email)->subject('Message from site');
      });
 
