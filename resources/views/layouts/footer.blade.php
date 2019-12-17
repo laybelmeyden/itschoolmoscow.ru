@@ -17,7 +17,7 @@
             <input type="text" name="phone" class="input_footer frm_1" placeholder="Имя" required>
             </div>
             <div>
-            <input type="email" name="contact_email" class="input_footer frm_2" placeholder="E-mail" required>
+            <input type="text" name="contact_email" class="input_footer frm_2" placeholder="E-mail" required>
             </div>
             <textarea name="text_contact" class="text_area_footer frm_3" placeholder="Сообщение" required></textarea>
             <div class="col col_footer">
