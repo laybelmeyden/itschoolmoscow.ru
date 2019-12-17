@@ -7,7 +7,7 @@
 <div class="row">
 <div class="green_header_uchast">
     <h1>Западный АДМИНИСТРАТИВНЫЙ ОКРУГ</h1>
-    <h3>09/12/2019</h3>
+    <h3>дата мероприятия будет известна чуть позже</h3>
     <p>г. Москва, Большая Новодмитровская ул., 36, стр. 12</p>
 <div class="col">
 <a class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
