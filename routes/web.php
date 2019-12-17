@@ -32,7 +32,7 @@ Route::get('/district10', 'MainController@district10');
 Route::get('/district11', 'MainController@district11');
 Route::get('/district12', 'MainController@district12');
 
-Route::post('/contact', 'MainController@contact');
+Route::post('/contact_f', 'MainController@contact_f');
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();

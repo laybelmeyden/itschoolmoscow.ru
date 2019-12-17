@@ -70,7 +70,7 @@ class MainController extends Controller
     public function district12(){
         return view ('pages.patch12');
     }
-    public function contact(Request $request)
+    public function contact_f(Request $request)
       {
       $data= array(
         'phone' => request('phone'),
