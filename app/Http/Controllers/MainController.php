@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Mainnews;
 use App\Gall;
+use Mail; 
 
 class MainController extends Controller
 {
@@ -72,16 +73,17 @@ class MainController extends Controller
     }
     public function contact_f(Request $request)
       {
-      $data= array(
-        'phone' => request('phone'),
+    $to_name = "AIR";
+    $to_email = "info@rusinnovations.com";
+    $data = array(
         'contact_email' => request('contact_email'),
+        'phone' => request('phone'),
         'text_contact' => request('text_contact'),
-      );
-       \Mail::send('email.mailcontact', $data, function($message_contact) use ($data)
-    {
-        $mail_admin = env('MAIL_ADMIN_CONTACT');
-        $message_contact->from($data['contact_email'],$data['phone'], $data['text_contact']);
-        $message_contact->to($mail_admin, 'For Admin')->subject('Message from site');
+    );
+      Mail::send('email.mailcontact', $data, function($message) use ($data, $to_email, $to_name)
+      {
+        $message->from($data['contact_email'],$data['phone'], $data['text_contact']);
+        $message->to($to_email)->subject('Message from site');
      });
 
      back()->with('message_1', 'Ваш вопрос отправлен куратору школы и в ближайшее время мы свяжемся с вами, чтобы ответить на него!');
