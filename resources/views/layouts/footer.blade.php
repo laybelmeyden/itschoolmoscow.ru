@@ -48,7 +48,8 @@
 </div>
         <div class="col col_f">
             <p>Сайт разработан с использованием средств Гранта Мэра Москвы для социально ориентированных некоммерческих организаций</p>
-            <!-- Yandex.Metrika informer -->
+        </div>
+        <!-- Yandex.Metrika informer -->
 <a href="https://metrika.yandex.ru/stat/?id=56694640&amp;from=informer"
 target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/56694640/1_0_5F5379FF_3F3359FF_1_pageviews"
 style="width:80px; height:15px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="56694640" data-lang="ru" /></a>
@@ -68,6 +69,5 @@ style="width:80px; height:15px; border:0;" alt="Яндекс.Метрика" tit
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/56694640" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-        </div>
 </div>
 </footer>
