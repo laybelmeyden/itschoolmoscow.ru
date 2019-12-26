@@ -287,7 +287,7 @@
           <a href="#"><img src="assets/img/image1.png" alt=""></a>
         </div>
         <div>
-          <a href="#"><img src="assets/img/dashdh2131.jpg" alt=""></a>
+          <a href="#"><img src="assets/img/dashdh2131.jpg" alt="" style="    width: 250px;"></a>
         </div>
       </div>
     </div>
