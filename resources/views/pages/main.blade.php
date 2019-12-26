@@ -281,10 +281,13 @@
       <h1>ПАРТНЕРЫ ШКОЛЫ</h1>
       <div class="flex_part">
         <div>
-          <a href="http://"><img src="assets/img/AIR.png" alt=""></a>
+          <a href="#"><img src="assets/img/AIR.png" alt=""></a>
         </div>
         <div>
-          <a href="http://"><img src="assets/img/image1.png" alt=""></a>
+          <a href="#"><img src="assets/img/image1.png" alt=""></a>
+        </div>
+        <div>
+          <a href="#"><img src="assets/img/dashdh2131.jpg" alt=""></a>
         </div>
       </div>
     </div>
