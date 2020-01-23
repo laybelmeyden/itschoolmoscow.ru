@@ -28,9 +28,21 @@
         <img src="assets/img/Group25.png" alt="">
         <p>Умный город</p>
       </div>
-      <div class="div_one">
+      <div>
         <img src="assets/img/Group26.png" alt="">
         <p>Интернет вещей</p>
+      </div>
+      <div>
+        <img src="assets/img/Group127.svg" alt="">
+        <p>Умный дом</p>
+      </div>
+      <div>
+        <img src="assets/img/Group128.svg" alt="">
+        <p>Интерактивная <br>робототехника</p>
+      </div>
+      <div class="div_one">
+        <img src="assets/img/Group129.svg" alt="">
+        <p>BigData</p>
       </div>
     </div>
     <div class="project_text">
