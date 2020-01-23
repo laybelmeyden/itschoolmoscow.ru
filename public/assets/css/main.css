@@ -273,6 +273,7 @@ nav a {
     line-height: 27px;
     /* identical to box height */
     color: #000000;
+    height: 50px;
 }
 
 
@@ -1357,6 +1358,20 @@ body {
         margin-top: 40px;
     }
 }
+@media only screen and (max-width: 1400px) {
+    .flex_project_one {
+        display: grid;
+        margin-top: 36px;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 102px;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    
+    .div_one {
+        margin-right: 86px !important;
+    }
+}
 @media only screen and (max-width: 1300px) {
     .brand-logo-main {
         width: 250px;
@@ -1691,7 +1706,11 @@ body {
         align-items: center;
         position: relative;
         margin-bottom: 0;
-        top: 180px;
+        top: 10px;
+    }
+    
+    .div_one {
+        margin: 0px !important;
     }
     
     .flex_project_one div {
@@ -2122,5 +2141,16 @@ body {
     .padding_btn {
         padding-left: 20px;
         padding-right: 20px;
+    }
+}
+@media screen and (max-width:650px) {
+    .prel {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        margin-bottom: 0;
+        top: 180px;
     }
 }
