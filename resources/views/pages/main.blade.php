@@ -300,10 +300,10 @@
           <a href="https://www.mos.ru/kos/"><img src="assets/img/image1.png" alt=""></a>
         </div>
         <div>
-          <a href="https://xn--80aah1beqdo5fva.xn--80adfe5b7a9ayd.xn--80adxhks/"><img src="assets/img/upload-ec9f6cc4-2c05-4af3-8f4e-db8cf73a8893.png" alt="" style="    width: 250px;"></a>
+          <a href="https://xn--80aah1beqdo5fva.xn--80adfe5b7a9ayd.xn--80adxhks/"><img src="assets/img/upload-ec9f6cc4-2c05-4af3-8f4e-db8cf73a8893.png" alt="" style="    width: 170px;"></a>
         </div>
         <div>
-          <a href="https://coddyschool.com/"><img src="assets/img/logo-coddy-blue.png" alt="" style="    width: 250px;"></a>
+          <a href="https://coddyschool.com/"><img src="assets/img/logo-coddy-blue.png" alt="" style="    width: 120px;"></a>
         </div>
       </div>
     </div>
