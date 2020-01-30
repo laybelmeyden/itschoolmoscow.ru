@@ -305,6 +305,9 @@
         <div>
           <a href="https://coddyschool.com/"><img src="assets/img/logo-coddy-blue.png" alt="" style="    width: 120px;"></a>
         </div>
+        <div>
+          <a href="https://cyberclass.ru/"><img src="assets/img/8gG_yu-QjVI.jpg" alt="" style="    width: 120px;"></a>
+        </div>
       </div>
     </div>
   </div>
