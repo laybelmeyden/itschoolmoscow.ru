@@ -23,7 +23,7 @@
           <div class="district_btn">
           <div class="district_btn_flex">
           <a href="https://vk.com/doc32870057_533738210?hash=09c10401e28239835f&dl=d32f15390e916357a1" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
-          <a class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
+          <a href="https://rusinnovations.timepad.ru/event/1240470/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
           </div>
           </div>
           </div>
@@ -32,7 +32,7 @@
           <div class="district_btn">
           <div class="district_btn_flex">
           <a href="https://vk.com/doc32870057_533738211?hash=8047c85e5e442afb69&dl=e536a1ee796c0ab09f" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
-          <a class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
+          <a href="https://rusinnovations.timepad.ru/event/1248772/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
           </div>
           </div>
           </div>
