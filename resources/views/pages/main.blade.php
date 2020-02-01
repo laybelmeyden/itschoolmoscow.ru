@@ -7,7 +7,7 @@
   <img src="assets/img/Frame.png" alt="" class="header_img">
   <h2>9 декабря 2019 - 30 апреля 2020</h2>
   <div class="padding_btn">
-  <a class="waves-effect waves-light btn">УЧАСТВОВАТЬ</a>
+  <a href="#map" class="waves-effect waves-light btn">УЧАСТВОВАТЬ</a>
   </div>
 </div>
 </div>
@@ -59,7 +59,7 @@
     <p><img src="assets/img/Frame23.png" alt="">дети от 10 до 17 лет</p>
     <p><img src="assets/img/Frame23.png" alt="">молодые люди от 18 до 25 лет</p>
     <div class="padding_btn">
-    <a class="waves-effect waves-light btn">УЧАСТВОВАТЬ</a>
+    <a href="#map" class="waves-effect waves-light btn">УЧАСТВОВАТЬ</a>
     </div>
   </div>
   <div class="uchat_img">
@@ -256,16 +256,16 @@
       </div>
       <div class="text_speak">
         <p>Матвей Бебенин</p>
-        <h2>Бэк-энд разработчик в RuTube</h2>
+        <h2>НИУ ВШЭ, 2018-2019 Бэк-энд разработчик в RuTube. 2017-2018 Руководитель бэк-энд разработки в креативном агентстве SVMD (разработка ассистента проективной аналитики Actin), в настоящее время менеджер по продукту MedPoint24</h2>
       </div>
     </div>
     <div class="flex_speak">
     <div class="img_speak">
-        <img src="assets/img/Nikita4.png" alt="">
+        <img src="assets/img/RcZHdB_tv7A.jpg" alt="">
       </div>
       <div class="text_speak">
-        <p>Сергеев Никита</p>
-        <h2>Руководитель проектов АНО "АИР"</h2>
+        <p>Андрей Черный</p>
+        <h2>МГТУ им. Баумана, судья Московской олимпиады по робототехнике, преподаватель, автор креативных методик обучения детей и взрослых, победитель всероссийской научно-технической конференции студентов «Студенческая научная весна 2019: Машиностроительные технологии»</h2>
       </div>
     </div>
     </div>
@@ -302,13 +302,17 @@
         <div>
           <a href="https://xn--80aah1beqdo5fva.xn--80adfe5b7a9ayd.xn--80adxhks/"><img src="assets/img/upload-ec9f6cc4-2c05-4af3-8f4e-db8cf73a8893.png" alt="" style="    width: 170px;"></a>
         </div>
-      </div>
-      <div class="flex_part">
+        <div>
+          <a href="http://xn--80adfe5b7a9ayd.xn--80adxhks/"><img src="assets/img/unnamed.png" alt="" style="    width: 200px;"></a>
+        </div>
       <div>
           <a href="https://coddyschool.com/"><img src="assets/img/logo-coddy-blue.png" alt="" style="    width: 120px;"></a>
         </div>
         <div>
           <a href="https://cyberclass.ru/"><img src="assets/img/8gG_yu-QjVI.jpg" alt="" style="    width: 120px;"></a>
+        </div>
+        <div>
+          <a href="http://xn--80adfe5b7a9ayd.xn--80adxhks/ru-RU/about-us.html"><img src="assets/img/3081-EventAnnounce-1-498-src-1511506680_0276.jpg" alt="" style="    width: 250px;"></a>
         </div>
       </div>
     </div>

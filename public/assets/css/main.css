@@ -542,6 +542,21 @@ textarea {
 .btn_news_padding {
     margin-bottom: 30px;
 }
+.maps_district_analog {
+    width: 30%;
+    height: 100%;
+    position: absolute;
+    background: #3F3359;
+}
+.maps_district_analog p {
+    color: white;
+    font-size: 26px;
+    padding: 40px;
+}
+#maps_district {
+    position: relative;
+    top: 10px;
+}
 .news_img {
     min-width: 535px;
     height: 338px;
@@ -579,6 +594,9 @@ textarea {
     padding-right: 75px;
     height: 112px;
     overflow: hidden;
+}
+.district_btn_flex {
+    flex-direction: row !important;
 }
 .news_body h3 {
     font-style: normal;
@@ -752,6 +770,29 @@ textarea {
     margin-top: 49px;
     margin-bottom: 35px;
 }
+.grid_two {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.grid_two div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.district_btn a {
+    color: white !important;
+    display: flex;
+    padding: 0 !important;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px !important;
+    margin-right: 20px !important;
+    margin-left: 20px !important;
+}
+.district_btn {
+    margin-top: 20px;
+}
 .flex_ruko {
     background-color: #5D4A86;
     background-image: url(../img/Frameruko.png);
@@ -816,21 +857,27 @@ textarea {
     text-align: center;
     color: #3F3359;
     margin-top: 146px;
-    margin-bottom: 38px;
+    margin-bottom: 110px;
 }
 .flex_speak {
     display: flex;
     width: 100%;
-    height: 237px;
+    height: auto;
     background: #F7F7F7;
     margin-right: 34px;
     margin-left: 34px;
+    min-height: 370px;
+    padding-bottom: 10px;
+    padding-top: 20px;
 }
 .img_speak {
     max-width: 257px;
     min-width: 257px;
     height: 257px;
     overflow: hidden;
+    position: relative;
+    right: 20px;
+    bottom: 50px;
 }
 .flex_speak img {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -882,8 +929,6 @@ textarea {
     margin-bottom: 169px;
 }
 .flex_part div {
-    width: 325px;
-    height: 110px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -891,11 +936,12 @@ textarea {
     margin-bottom: 30px;
     margin-left: 55px;
     margin-right: 55px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 .flex_part {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 #footer {
     background: #F0F0F0;
@@ -1358,6 +1404,12 @@ body {
         margin-top: 40px;
     }
 }
+@media screen and (max-width:1600px) {
+    .flex_part {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
 @media only screen and (max-width: 1400px) {
     .flex_project_one {
         display: grid;
@@ -1375,6 +1427,30 @@ body {
 @media only screen and (max-width: 1300px) {
     .brand-logo-main {
         width: 250px;
+    }
+    
+    .flex_part {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    .flex_all_speak {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .flex_speak {
+        display: flex;
+        width: 100%;
+        height: auto;
+        background: #F7F7F7;
+        margin-right: 34px;
+        margin-left: 34px;
+        min-height: 370px;
+        padding-bottom: 10px;
+        padding-top: 20px;
+        margin-bottom: 80px;
     }
     
     .flex_footer {
@@ -1426,6 +1502,18 @@ body {
         width: 250px;
     }
     
+    .maps_district_analog {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        background: #3F3359;
+    }
+    
+    .grid_two {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
     .flex_help_footer div {
         display: flex;
         justify-content: center;
@@ -1465,6 +1553,10 @@ body {
     }
 }
 @media only screen and (max-width: 992px) {
+    .district_btn_flex {
+        flex-direction: column !important;
+    }
+    
     .green_header_uchast h1 {
         font-style: normal;
         font-weight: normal;
@@ -1473,6 +1565,15 @@ body {
         color: #3F3359;
         margin: 0;
         text-transform: uppercase;
+    }
+    
+    .district_btn a {
+        margin-top: 20px !important;
+    }
+    
+    .flex_part {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
     }
     
     .green_header_uchast h3 {
@@ -1948,7 +2049,7 @@ body {
     
     #speakers h1 {
         margin-top: 50px;
-        margin-bottom: 10px;
+        margin-bottom: 40px;
     }
     
     .flex_speak {
@@ -2002,26 +2103,6 @@ body {
         color: #3F3359;
         margin-top: 40px;
         margin-bottom: 46px;
-    }
-    
-    .flex_part {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-    }
-    
-    .flex_part div {
-        width: 325px;
-        height: 110px;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        margin-bottom: 30px;
-        margin-left: 0;
-        margin-right: 0;
-        padding: 40px;
     }
     
     .flex_part img {
@@ -2152,5 +2233,15 @@ body {
         position: relative;
         margin-bottom: 0;
         top: 180px;
+    }
+    
+    .flex_part {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
+    .grid_two {
+        display: grid;
+        grid-template-columns: 1fr;
     }
 }
