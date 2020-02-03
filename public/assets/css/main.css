@@ -155,7 +155,7 @@ nav a {
 
 #news_solo_header img {
     width: 100%;
-    height: auto;
+    height: 100%;
 }
 
 .img_crop {
@@ -1500,6 +1500,11 @@ body {
 @media only screen and (max-width: 1200px) {
     .brand-logo-main {
         width: 250px;
+    }
+    
+    #news_solo_header img {
+        width: 100%;
+        height: auto;
     }
     
     .maps_district_analog {
