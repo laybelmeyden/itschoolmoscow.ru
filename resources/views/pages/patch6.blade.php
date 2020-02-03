@@ -8,6 +8,7 @@
 <div class="green_header_uchast">
     <h1>Юго-Восточный АДМИНИСТРАТИВНЫЙ ОКРУГ</h1>
     <h3>12-13 февраля 2020 год</h3>
+    <p>Школа развития цифровых компетенций и интерактивной робототехники</p>
     <p>г. Москва, 1-я Машиностроения 3/5А (станция метро Дубровка)</p>
 </div>
 </div>
@@ -19,19 +20,21 @@
         <h2>ПРОГРАММА МЕРОПРИЯТИЯ</h2>
         <div class="grid_two">
           <div>
+          <p><a>Дата: 13.02.2020 Время: 13:30 – 15:00</a></p>
           <p><a>День 1 (6-8 класс)</a></p>
           <div class="district_btn">
           <div class="district_btn_flex">
-          <a href="https://vk.com/doc32870057_533738210?hash=09c10401e28239835f&dl=d32f15390e916357a1" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
+          <a href="https://vk.com/doc32870057_534095503?hash=f85b7a683328138ddc&dl=ffb7a38b7e4a4b9ced" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
           <a href="https://rusinnovations.timepad.ru/event/1240470/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
           </div>
           </div>
           </div>
           <div>
+          <p><a>Дата: 12.02.2020 Время: 13:30 – 15:00</a></p>
           <p><a>День 2 (9-11 класс)</a></p>
           <div class="district_btn">
           <div class="district_btn_flex">
-          <a href="https://vk.com/doc32870057_533738211?hash=8047c85e5e442afb69&dl=e536a1ee796c0ab09f" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
+          <a href="https://vk.com/doc32870057_534095513?hash=be32198f0705381e21&dl=c73b45217e326513b7" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
           <a href="https://rusinnovations.timepad.ru/event/1248772/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
           </div>
           </div>
@@ -63,7 +66,7 @@
     <div class="flex_all_speak">
     <div class="flex_speak">
     <div class="img_speak">
-        <img src="assets/img/RcZHdB_tv7A.jpg" alt="">
+        <img src="assets/img/bp1L6XBkzDM.jpg" alt="">
       </div>
       <div class="text_speak">
         <p>Андрей Черный</p>

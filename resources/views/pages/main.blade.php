@@ -261,7 +261,7 @@
     </div>
     <div class="flex_speak">
     <div class="img_speak">
-        <img src="assets/img/RcZHdB_tv7A.jpg" alt="">
+        <img src="assets/img/bp1L6XBkzDM.jpg" alt="">
       </div>
       <div class="text_speak">
         <p>Андрей Черный</p>
