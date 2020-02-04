@@ -69,7 +69,7 @@
 </section>
 <section id="plashka">
 <div class="plashka_container">
-<h3>ОТКРЫТА РЕГИСТРАЦИЯ НА ШКОЛУ В ЮВАО<br><a href="/district6">(Нажмите тут чтобы зарегистрироваться)</a></h3>
+<h3>ОТКРЫТА РЕГИСТРАЦИЯ НА ШКОЛУ В ЮВАО<br><a href="/district6">(Нажмите тут, чтобы зарегистрироваться)</a></h3>
 </div>
 </section>
 <section id="map">
