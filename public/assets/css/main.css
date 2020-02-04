@@ -1224,6 +1224,33 @@ b {
     overflow: hidden;
     flex-direction: column;
 }
+#plashka {
+    margin-top: 60px;
+}
+.plashka_container h3 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.2em;
+    color: #3F3359;
+    margin: 0;
+    text-align: center;
+}
+.plashka_container a {
+    color: #9FCE0D;
+    text-align: center;
+}
+.plashka_container {
+    padding: 40px;
+    margin-top: 40px;
+    width: 85%;
+    margin: 0 auto;
+    min-height: 160px;
+    height: auto;
+    -webkit-box-shadow: 0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px 8px rgba(0, 0, 0, 0.12), 0 11px 15px -7px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px 8px rgba(0, 0, 0, 0.12), 0 11px 15px -7px rgba(0, 0, 0, 0.2);
+}
 .green_header_uchast h3 {
     font-style: normal;
     font-weight: bold;
@@ -1560,6 +1587,16 @@ body {
 @media only screen and (max-width: 992px) {
     .district_btn_flex {
         flex-direction: column !important;
+    }
+    
+    .plashka_container a {
+        font-size: 18px;
+        word-break: break-word;
+    }
+    
+    .plashka_container h3 {
+        font-size: 22px;
+        word-break: break-word;
     }
     
     .green_header_uchast h1 {
