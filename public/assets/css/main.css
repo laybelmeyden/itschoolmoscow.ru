@@ -1226,6 +1226,8 @@ b {
 }
 #plashka {
     margin-top: 60px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 .plashka_container h3 {
     font-style: normal;
@@ -1237,13 +1239,22 @@ b {
     margin: 0;
     text-align: center;
 }
+h1 {
+    width: 100%;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 44px;
+    letter-spacing: 0.2em;
+    color: #3F3359;
+}
 .plashka_container a {
     color: #9FCE0D;
     text-align: center;
 }
 .plashka_container {
     padding: 40px;
-    margin-top: 40px;
+    margin-top: 40px !important;
     width: 85%;
     margin: 0 auto;
     min-height: 160px;
@@ -1527,6 +1538,12 @@ body {
 @media only screen and (max-width: 1200px) {
     .brand-logo-main {
         width: 250px;
+    }
+    
+    #plashka {
+        margin-bottom: 60px;
+        display: grid;
+        grid-template-columns: 1fr;
     }
     
     #news_solo_header img {
