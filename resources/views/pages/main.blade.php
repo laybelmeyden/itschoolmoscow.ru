@@ -67,7 +67,13 @@
   </div>
 </div>
 </section>
-<h1 style="margin-top:90px;">Актуальные мероприятия</h1>
+<h1 style="margin-top:90px;  width: 100%;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 44px;
+    letter-spacing: 0.2em;
+    color: #3F3359;">Актуальные мероприятия</h1>
 <section id="plashka">
 <div class="plashka_container">
 <h3><a href="/district2">ШКОЛА СЕВЕРО-ЗАПАДНЫЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
