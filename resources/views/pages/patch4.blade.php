@@ -20,7 +20,7 @@
         <h2>ПРОГРАММА МЕРОПРИЯТИЯ</h2>
         <div class="grid_two">
           <div>
-          <p><a>Дата: 3 марта, Время: 13:30 до 15:00</a></p>
+          <p><a>Дата: 25 февраля, Время: 13:30 до 15:00</a></p>
           <p><a>День 1 (6-8 класс)</a></p>
           <div class="district_btn">
           <div class="district_btn_flex">
@@ -30,7 +30,7 @@
           </div>
           </div>
           <div>
-          <p><a>Дата: 4 марта, Время: 13:30 до 15:00</a></p>
+          <p><a>Дата: 26 февраля, Время: 13:30 до 15:00</a></p>
           <p><a>День 2 (9-11 класс)</a></p>
           <div class="district_btn">
           <div class="district_btn_flex">
