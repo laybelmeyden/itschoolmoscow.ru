@@ -24,7 +24,7 @@
           <p><a>День 1 (6-8 класс)</a></p>
           <div class="district_btn">
           <div class="district_btn_flex">
-          <!-- <a href="https://vk.com/doc95748576_534614000?hash=072b9491ef421a7b2f&dl=fb64ac0f474debbb99" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a> -->
+          <a href="https://vk.com/doc32870057_535601815?hash=fa9d5a39010ae5622b&dl=c8713d4441563310cc" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
           <a href="https://rusinnovations.timepad.ru/event/1253618/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
           </div>
           </div>
@@ -34,7 +34,7 @@
           <p><a>День 2 (9-11 класс)</a></p>
           <div class="district_btn">
           <div class="district_btn_flex">
-          <!-- <a href="https://vk.com/doc95748576_534614048?hash=41894cbd9d9b6b7ad8&dl=a11bfc0784da7a9cb3" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a> -->
+          <a href="https://vk.com/doc32870057_535601817?hash=7e27095baafb93f783&dl=3e2c17aa67e4dcee1e" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
           <a href="https://rusinnovations.timepad.ru/event/1253622/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
           </div>
           </div>
