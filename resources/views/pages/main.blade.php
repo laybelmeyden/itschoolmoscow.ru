@@ -76,9 +76,6 @@
     color: #3F3359;">Актуальные мероприятия</h1>
 <section id="plashka">
 <div class="plashka_container">
-<h3><a href="/district2">ШКОЛА СЕВЕРО-ЗАПАДНЫЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
-</div>
-<div class="plashka_container">
 <h3><a href="/district4">ШКОЛА СЕВЕРО-ВОСТОЧНЫЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
 </div>
 </section>
