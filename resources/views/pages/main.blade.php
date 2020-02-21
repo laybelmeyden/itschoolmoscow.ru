@@ -78,6 +78,9 @@
 <div class="plashka_container">
 <h3><a href="/district4">ШКОЛА СЕВЕРО-ВОСТОЧНЫЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
 </div>
+<div class="plashka_container">
+<h3><a href="/district11">НОВОМОСКОВСКИЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
+</div>
 </section>
 <section id="map">
 <div class="maps_select">
