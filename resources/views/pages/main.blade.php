@@ -76,7 +76,7 @@
     color: #3F3359;">Актуальные мероприятия</h1>
 <section id="plashka">
 <div class="plashka_container">
-<h3><a href="/district4">ШКОЛА СЕВЕРО-ВОСТОЧНЫЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
+<h3><a href="/district12">ТРОИЦКИЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
 </div>
 <div class="plashka_container">
 <h3><a href="/district11">НОВОМОСКОВСКИЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
