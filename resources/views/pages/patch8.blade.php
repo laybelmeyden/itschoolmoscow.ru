@@ -21,20 +21,20 @@
         <div class="grid_two">
           <div>
           <p><a>Дата: 16 марта, Время: 12:30 до 14:10</a></p>
-          <p><a>День 1 (6-8 класс)</a></p>
+          <p><a>День 1 (5-6 класс)</a></p>
           <div class="district_btn">
           <div class="district_btn_flex">
-          <a href="https://vk.com/doc32870057_537479849?hash=aa81be6520e6f893f3&dl=8f1f2d57b63c72229d" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
+          <a href="https://vk.com/doc32870057_538359809?hash=270d1f7bb7fd03d5a4&dl=23b9042022c256b41b" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
           <a href="https://rusinnovations.timepad.ru/event/1273872/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
           </div>
           </div>
           </div>
           <div>
           <p><a>Дата: 17 марта, Время: 11:35 до 13:15</a></p>
-          <p><a>День 2 (9-11 класс)</a></p>
+          <p><a>День 2 (7-8 класс)</a></p>
           <div class="district_btn">
           <div class="district_btn_flex">
-          <a href="https://vk.com/doc32870057_537479851?hash=7204db13c8dc443602&dl=96ed611f2bcbf34d82" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
+          <a href="https://vk.com/doc32870057_538359811?hash=a8514342a82ef96d57&dl=933e4a36a7398b1bc9" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
           <a href="https://rusinnovations.timepad.ru/event/1273878/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
           </div>
           </div>
