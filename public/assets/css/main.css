@@ -667,6 +667,7 @@ textarea {
     margin-bottom: 0px;
     margin-right: 34px;
     margin-left: 34px;
+    min-height: 450px;
 }
 .card_news {
     background: #FFFFFF;
