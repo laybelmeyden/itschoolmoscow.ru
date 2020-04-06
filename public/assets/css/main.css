@@ -1594,6 +1594,10 @@ body {
     }
 }
 @media only screen and (max-width: 992px) {
+    .card_all {
+        min-height: auto;
+    }
+    
     .district_btn_flex {
         flex-direction: column !important;
     }
