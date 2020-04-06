@@ -7,7 +7,7 @@
 <div class="row">
 <h1 class="title_h1">новости</h1>
 @foreach ($mainnews as $mainnew)
-<div class="col l4">
+<div class="col s12 l4">
 <div class="card card_all">
         <div class="card-image card_img_news">
           <img src="/storage/{{ $mainnew->img }}">
