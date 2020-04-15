@@ -74,14 +74,14 @@
     line-height: 44px;
     letter-spacing: 0.2em;
     color: #3F3359;">Актуальные мероприятия</h1>
-<section id="plashka">
+<!-- <section id="plashka">
 <div class="plashka_container">
 <h3><a href="/district12">ТРОИЦКИЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
 </div>
 <div class="plashka_container">
 <h3><a href="/district11">НОВОМОСКОВСКИЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
 </div>
-</section>
+</section> -->
 <section id="map">
 <div class="maps_select">
     <h1>ГЕОГРАФИЯ<br> КОНКУРСА</h1>

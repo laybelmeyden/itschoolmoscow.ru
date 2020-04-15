@@ -7,9 +7,9 @@
 <div class="row">
 <div class="green_header_uchast">
     <h1>ТРОИЦКИЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</h1>
-    <h3>10-11 марта 2020 год</h3>
+    <h3>21 апреля 2020 год</h3>
     <p style="line-height: 20px;">"Гимназия г. Троицка"</p>
-    <p style="line-height: 20px;">г. Москва, г. Троицк, Октябрьский проспект, д.6, аудиторрии №33,38 (3-й этаж)</p>
+    <p style="line-height: 20px;">Онлайн-платформа ZOOM (ссылка на конференцию будет направлена зарегистрированным участникам за 1 час до начала онлайн-урока</p>
 </div>
 </div>
 </div>
@@ -20,16 +20,16 @@
         <h2>ПРОГРАММА МЕРОПРИЯТИЯ</h2>
         <div class="grid_two">
           <div>
-          <p><a>Дата: 10 марта, Время: 13:30 до 15:00</a></p>
-          <p><a>День 1 (6-8 класс)</a></p>
+          <p><a>Дата: 21, Время: 14:30 до 15:15</a></p>
+          <p><a>(6-8 класс)</a></p>
           <div class="district_btn">
           <div class="district_btn_flex">
           <a href="https://vk.com/doc95748576_534614000?hash=072b9491ef421a7b2f&dl=fb64ac0f474debbb99" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
-          <a href="https://rusinnovations.timepad.ru/event/1252622/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
+          <a href="https://rusinnovations.timepad.ru/event/1298141/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
           </div>
           </div>
           </div>
-          <div>
+          <!-- <div>
           <p><a>Дата: 11 марта, Время: 13:30 до 15:00</a></p>
           <p><a>День 2 (9-11 класс)</a></p>
           <div class="district_btn">
@@ -38,7 +38,7 @@
           <a href="https://rusinnovations.timepad.ru/event/1252922/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
           </div>
           </div>
-          </div>
+          </div> -->
         </div>
     </div>
 </div>
