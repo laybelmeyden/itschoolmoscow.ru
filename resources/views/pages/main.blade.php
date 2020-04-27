@@ -67,20 +67,18 @@
   </div>
 </div>
 </section>
-<h1 style="margin-top:90px;  width: 100%;
-    text-align: center;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 44px;
-    letter-spacing: 0.2em;
-    color: #3F3359;">Актуальные мероприятия</h1>
+<h1 id="actual">Актуальные мероприятия</h1>
 <section id="plashka">
+<a href="https://rusinnovations.timepad.ru/event/1305321/">
 <div class="plashka_container">
-<h3><a href="/district12">ТРОИЦКИЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
+<h3>7 мая 6-10 лет</h3>
 </div>
-<!-- <div class="plashka_container">
-<h3><a href="/district11">НОВОМОСКОВСКИЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</a></h3>
-</div> -->
+</a>
+<a href="https://rusinnovations.timepad.ru/event/1305333/">
+<div class="plashka_container">
+<h3>7 мая 11-18 лет</h3>
+</div>
+</a>
 </section>
 <section id="map">
 <div class="maps_select">

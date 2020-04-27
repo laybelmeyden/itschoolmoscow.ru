@@ -1244,6 +1244,9 @@ b {
     color: #9FCE0D;
     text-align: center;
 }
+.plashka_container:hover {
+    opacity: 0.5;
+}
 .plashka_container {
     padding: 40px;
     margin-top: 40px !important;
@@ -1253,6 +1256,25 @@ b {
     height: auto;
     -webkit-box-shadow: 0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px 8px rgba(0, 0, 0, 0.12), 0 11px 15px -7px rgba(0, 0, 0, 0.2);
     box-shadow: 0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px 8px rgba(0, 0, 0, 0.12), 0 11px 15px -7px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dstr_main_page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+#actual {
+    margin-top: 90px;
+    width: 100%;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 44px;
+    letter-spacing: 0.2em;
+    color: #3F3359;
 }
 .green_header_uchast h3 {
     font-style: normal;

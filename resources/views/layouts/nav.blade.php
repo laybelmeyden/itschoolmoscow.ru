@@ -7,7 +7,7 @@
         <li class="nav_li" style="padding-right:69px;"><a href="/uchastnikam">УЧАСТНИКАМ</a></li>
         <li class="nav_li" style="padding-right:63px;"><a href="/allnews">НОВОСТИ</a></li>
         <li class="nav_li" style="padding-right:34px;"><a href="#footer">КОНТАКТЫ</a></li>
-        <li class="nav_li"><a href="/#map" class="waves-effect waves-light btn btn_nav">РЕГИСТРАЦИЯ</a></li>
+        <li class="nav_li"><a href="/#actual" class="waves-effect waves-light btn btn_nav">РЕГИСТРАЦИЯ</a></li>
       </ul>
     </div>
   </nav>
@@ -17,5 +17,5 @@
         <li class="nav_li" style="padding-right:69px;"><a href="/uchastnikam">УЧАСТНИКАМ</a></li>
         <li class="nav_li" style="padding-right:63px;"><a href="/allnews">НОВОСТИ</a></li>
         <li class="nav_li" style="padding-right:34px;"><a href="#footer">КОНТАКТЫ</a></li>
-        <li class="nav_li" style="padding-right:34px;"><a href="/#map">РЕГИСТРАЦИЯ</a></li>
+        <li class="nav_li" style="padding-right:34px;"><a href="/#actual">РЕГИСТРАЦИЯ</a></li>
   </ul>
