@@ -67,7 +67,7 @@
   </div>
 </div>
 </section>
-<h1 id="actual">Актуальные мероприятия</h1>
+<!-- <h1 id="actual">Актуальные мероприятия</h1>
 <section id="plashka">
 <a href="https://rusinnovations.timepad.ru/event/1305321/">
 <div class="plashka_container">
@@ -79,7 +79,7 @@
 <h3>7 мая 11-18 лет</h3>
 </div>
 </a>
-</section>
+</section> -->
 <section id="map">
 <div class="maps_select">
     <h1>ГЕОГРАФИЯ<br> КОНКУРСА</h1>

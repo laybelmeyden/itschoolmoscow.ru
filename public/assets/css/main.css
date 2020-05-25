@@ -449,6 +449,10 @@ nav a {
     text-align: center;
     color: #000000;
 }
+.captchajs {
+    display: flex;
+    justify-content: flex-end;
+}
 .maps_select {
     margin-left: 149px;
     position: absolute;
