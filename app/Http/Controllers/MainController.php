@@ -73,6 +73,7 @@ class MainController extends Controller
     }
     public function contact_f(Request $request)
       {
+        if($request['g-recaptcha-response']){
         $this->validate(request(), [
             'g-recaptcha-response' => 'required|captcha'
         ]);
@@ -92,5 +93,9 @@ class MainController extends Controller
 
      back()->with('message_1', 'Ваш вопрос отправлен куратору школы и в ближайшее время мы свяжемся с вами, чтобы ответить на него!');
      return redirect('/#footer')->with('message', 'СПАСИБО ЗА ВАШУ АКТИВНОСТЬ И ИНТЕРЕС!');
+    }else{
+        back()->with('message_1', 'Проверьте правильность заполненных данных и отправьте форму еще раз!');
+      return redirect('/')->with('message', 'Ваш вопрос не был отправлен !');
+    }
     }
 }
