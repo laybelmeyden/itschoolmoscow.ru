@@ -95,7 +95,7 @@ class MainController extends Controller
      return redirect('/#footer')->with('message', 'СПАСИБО ЗА ВАШУ АКТИВНОСТЬ И ИНТЕРЕС!');
     }else{
         back()->with('message_1', 'Проверьте правильность заполненных данных и отправьте форму еще раз!');
-      return redirect('/')->with('message', 'Ваш вопрос не был отправлен !');
+      return redirect('/#footer')->with('message', 'Ваш вопрос не был отправлен !');
     }
     }
 }
