@@ -23,6 +23,11 @@
                 <div class="captchajs">
                     {!! NoCaptcha::renderJs() !!}
                     {!! NoCaptcha::display() !!}
+                    @if ($errors->has('g-recaptcha-response'))
+                    <span class="help-block">
+                        <strong>captcha введена неправильно!</strong>
+                    </span>
+                    @endif
                 </div>
                 <div class="col col_footer">
                     <button type="submit" class="waves-effect waves-light btn btn_footer">ОТПРАВИТЬ</button>
