@@ -1245,11 +1245,54 @@ b {
     text-align: center;
 }
 .plashka_container a {
-    color: #9FCE0D;
-    text-align: center;
+    background: linear-gradient(281deg, #3F3359 -11.42%, #5D4A86 93.74%), #3F3359;
+    border-radius: 60px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    min-height: 60px;
+    margin-top: 20px;
 }
-.plashka_container:hover {
-    opacity: 0.5;
+#actual p:nth-child(1) {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.2em;
+    color: #3F3359;
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+#actual p:nth-child(2) {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.2em;
+    color: #3F3359;
+    margin: 0;
+    text-align: center;
+    font-family: 'Circe Bold';
+}
+#actual p:nth-child(3) {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 44px;
+    letter-spacing: 0.2em;
+    color: #3F3359;
+    margin: 0;
+    text-align: center;
 }
 .plashka_container {
     padding: 40px;
@@ -1263,6 +1306,16 @@ b {
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 420px;
+    flex-direction: column;
+}
+.plashka_container div {
+    padding-top: 30px;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
 }
 .dstr_main_page {
     display: flex;
@@ -1279,6 +1332,7 @@ b {
     line-height: 44px;
     letter-spacing: 0.2em;
     color: #3F3359;
+    padding-bottom: 80px;
 }
 .green_header_uchast h3 {
     font-style: normal;

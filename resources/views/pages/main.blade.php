@@ -7,12 +7,37 @@
   <img src="assets/img/Frame.png" alt="" class="header_img">
   <h2>9 декабря 2019 - 30 апреля 2020</h2>
   <div class="padding_btn">
-  <a href="#map" class="waves-effect waves-light btn">УЧАСТВОВАТЬ</a>
+  <a href="#actual" class="waves-effect waves-light btn" style="width:350px;">Регистрация на соревнования и конкурс</a>
   </div>
 </div>
 </div>
 <div class="prel">
-<a href="#project" class="btn-floating btn-large-header pulse"><img src="assets/img/Frame1.png"></a>
+<a href="#actual" class="btn-floating btn-large-header pulse"><img src="assets/img/Frame1.png"></a>
+</div>
+</section>
+<section id="actual">
+<p>Ближайшие мероприятия</p>
+<p>Успей зарегистрироваться до 22.06</p>
+<p>*количество участников ограниченно и регистрация может закрыться раньше указанной даты</p>
+<div id="plashka">
+<div>
+<div class="plashka_container">
+<h3>Соревнования по робототехнике</h3>
+<div>
+<a href="https://rusinnovations.timepad.ru/event/1330979/" class="waves-effect waves-light btn">РЕГИСТРАЦИЯ</a>
+<a href="https://vk.com/doc95748576_552680542?hash=32b5349b7ff25d5349&dl=eb0e9bbbe1f5b71f75" class="waves-effect waves-light btn">Правила участия в соревнованиях</a>
+</div>
+</div>
+</div>
+<div>
+<div class="plashka_container">
+<h3>Творческий конкурс «Умная Москва глазами детей и молодежи»</h3>
+<div>
+<a href="https://vk.com/doc95748576_552688974?hash=428abc49d08e225c6c&dl=2ed3cd4e08857a3e92" class="waves-effect waves-light btn">ПОЛОЖЕНИЕ</a>
+<a href="https://vk.com/doc95748576_552688912?hash=e3b4e2eb231994b76b&dl=b269465d69d26429da" class="waves-effect waves-light btn">Заявка на участие в конкурсе</a>
+</div>
+</div>
+</div>
 </div>
 </section>
 <section id="project">
