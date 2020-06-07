@@ -16,26 +16,25 @@
 </div>
 </section>
 <section id="actual">
+<div class="container">
 <p>Ближайшие мероприятия</p>
 <p>Успей зарегистрироваться до 22.06</p>
 <p>*количество участников ограниченно и регистрация может закрыться раньше указанной даты</p>
+<p>Cоревнования по интерактивной робототехнике в рамках проекта «Школы развития цифровых компетенций и интерактивной робототехники»</p>
+</div>
 <div id="plashka">
 <div>
 <div class="plashka_container">
-<h3>Соревнования по робототехнике</h3>
-<div>
-<a href="https://rusinnovations.timepad.ru/event/1330979/" class="waves-effect waves-light btn">РЕГИСТРАЦИЯ</a>
-<a href="https://vk.com/doc95748576_552680542?hash=32b5349b7ff25d5349&dl=eb0e9bbbe1f5b71f75" class="waves-effect waves-light btn">Правила участия в соревнованиях</a>
-</div>
+  <a href="https://vk.com/doc95748576_553107400?hash=5b45bccdc054e1e67b&dl=f51d655188bdf0e0a6" class="waves-effect waves-light btn">ПОЛОЖЕНИЕ</a>
+<h3>Категория «Соревновательная робототехника</h3>
+<a href="https://rusinnovations.timepad.ru/event/1330979/" class="waves-effect waves-light btn">Регистрация на соревновательную робототехнику</a>
 </div>
 </div>
 <div>
 <div class="plashka_container">
-<h3>Творческий конкурс «Умная Москва глазами детей и молодежи»</h3>
-<div>
-<a href="https://vk.com/doc95748576_552688974?hash=428abc49d08e225c6c&dl=2ed3cd4e08857a3e92" class="waves-effect waves-light btn">ПОЛОЖЕНИЕ</a>
-<a href="https://vk.com/doc95748576_552688912?hash=e3b4e2eb231994b76b&dl=b269465d69d26429da" class="waves-effect waves-light btn">Заявка на участие в конкурсе</a>
-</div>
+  <a href="https://vk.com/doc95748576_553107438?hash=cce0ed2bece87819a2&dl=f2a2ba2bd03af56ff5" class="waves-effect waves-light btn">РЕГЛАМЕНТЫ</a>
+<h3>Творческая категория «Умная Москва глазами детей и молодежи»</h3>
+<a href="https://vk.com/doc95748576_553107739?hash=bbb4106d581d53e640&dl=7e0be7c07a902968ce" class="waves-effect waves-light btn">Заявка на творческую категорию</a>
 </div>
 </div>
 </div>
