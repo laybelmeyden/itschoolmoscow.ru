@@ -25,7 +25,7 @@
   <div id="plashka">
     <div>
       <div class="container">
-        <a href="https://vk.com/doc95748576_553219308?hash=fbbf2f3c3912bf9b89&dl=f335250c9933850ef3" class="waves-effect waves-light btn">ПОЛОЖЕНИЕ</a>
+        <a href="https://drive.google.com/file/d/1jPcwgsbnE7Y3n8mW7ymYZLAqgPn3sStc/view?usp=sharing" class="waves-effect waves-light btn">ПОЛОЖЕНИЕ</a>
       </div>
       <div class="plashka_container">
         <h3>Категория «Соревновательная робототехника</h3>
@@ -34,10 +34,10 @@
     </div>
     <div>
       <div class="container">
-        <a href="https://vk.com/doc95748576_553107438?hash=cce0ed2bece87819a2&dl=f2a2ba2bd03af56ff5" class="waves-effect waves-light btn">РЕГЛАМЕНТЫ</a></div>
+        <a href="https://drive.google.com/file/d/1PCT9ldWBWx24OtjY-3OhfBtbvetiYMEC/view?usp=sharing" class="waves-effect waves-light btn">РЕГЛАМЕНТЫ</a></div>
       <div class="plashka_container">
         <h3>Творческая категория «Умная Москва глазами детей и молодежи»</h3>
-        <a href="https://vk.com/doc95748576_553107739?hash=bbb4106d581d53e640&dl=7e0be7c07a902968ce" class="waves-effect waves-light btn">Заявка на творческую категорию</a>
+        <a href="https://drive.google.com/file/d/1FYlWd3fl5W3VDFoYR1VeYpP2DlRlnivk/view?usp=sharing" class="waves-effect waves-light btn">Заявка на творческую категорию</a>
       </div>
     </div>
   </div>
