@@ -18,7 +18,7 @@
 <section id="actual">
   <div class="container">
     <p>Ближайшие мероприятия</p>
-    <p>Успей зарегистрироваться до 23.06</p>
+    <p>Успей зарегистрироваться до 30.06</p>
     <p>*количество участников ограниченно и регистрация может закрыться раньше указанной даты</p>
     <p>Cоревнования по интерактивной робототехнике в рамках проекта «Школы развития цифровых компетенций и интерактивной робототехники»</p>
   </div>
@@ -34,7 +34,7 @@
     </div>
     <div>
       <div class="container">
-        <a href="https://drive.google.com/file/d/1PCT9ldWBWx24OtjY-3OhfBtbvetiYMEC/view?usp=sharing" class="waves-effect waves-light btn">РЕГЛАМЕНТЫ</a></div>
+        <a href="https://drive.google.com/file/d/1B7zIQsIXPss5UEuds-xYx7GwnNuyQ143/view?usp=sharing" class="waves-effect waves-light btn">РЕГЛАМЕНТЫ</a></div>
       <div class="plashka_container">
         <h3>Творческая категория «Умная Москва глазами детей и молодежи»</h3>
         <a href="https://drive.google.com/file/d/1FYlWd3fl5W3VDFoYR1VeYpP2DlRlnivk/view?usp=sharing" class="waves-effect waves-light btn">Заявка на творческую категорию</a>
