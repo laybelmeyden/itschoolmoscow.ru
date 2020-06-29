@@ -5,7 +5,7 @@
   <div class="container">
     <div class="row">
       <img src="assets/img/Frame.png" alt="" class="header_img">
-      <h2>9 декабря 2019 - 30 апреля 2020</h2>
+      <!-- <h2>9 декабря 2019 - 30 апреля 2020</h2> -->
       <div class="padding_btn">
         <a href="#actual" class="waves-effect waves-light btn" style="width:350px;">Регистрация на соревнования и конкурс</a>
       </div>
