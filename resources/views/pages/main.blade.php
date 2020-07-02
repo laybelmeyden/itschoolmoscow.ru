@@ -29,7 +29,7 @@
       </div>
       <div class="plashka_container">
         <h3>Категория «Соревновательная робототехника</h3>
-        <a href="https://rusinnovations.timepad.ru/event/1330979/" class="waves-effect waves-light btn">Регистрация на соревновательную робототехнику</a>
+        <a href="https://drive.google.com/file/d/1UmS-EaXA7ArEVpcPrXK4Ps4azmc0qpRn/view?usp=sharing" class="waves-effect waves-light btn">список финалистов</a>
       </div>
     </div>
     <div>
@@ -37,7 +37,7 @@
         <a href="https://drive.google.com/file/d/1B7zIQsIXPss5UEuds-xYx7GwnNuyQ143/view?usp=sharing" class="waves-effect waves-light btn">РЕГЛАМЕНТЫ</a></div>
       <div class="plashka_container">
         <h3>Творческая категория «Умная Москва глазами детей и молодежи»</h3>
-        <a href="https://drive.google.com/file/d/1FYlWd3fl5W3VDFoYR1VeYpP2DlRlnivk/view?usp=sharing" class="waves-effect waves-light btn">Заявка на творческую категорию</a>
+        <a href="https://drive.google.com/file/d/17mh4m7Oc-5T3VkiCzr_Y4sKgIHws8YXc/view?usp=sharing" class="waves-effect waves-light btn">список финалистов</a>
       </div>
     </div>
   </div>
