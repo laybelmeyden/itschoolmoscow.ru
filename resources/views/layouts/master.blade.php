@@ -2,21 +2,21 @@
 <html>
 
 <head>
-  <title>Школы развития цифровых компетенций и интерактивной робототехники москвы</title>
+  <title>'Цифровая Москва' глазами детей и молодежи</title>
   <!--meta-->
   <meta charset="UTF-8">
-  <meta name="description" content="Школы развития цифровых компетенций и интерактивной робототехники москвы"/>
-  <META NAME="keywords" CONTENT="Школы развития цифровых компетенций и интерактивной робототехники москвы">
+  <meta name="description" content="'Цифровая Москва' глазами детей и молодежи"/>
+  <META NAME="keywords" CONTENT="'Цифровая Москва' глазами детей и молодежи">
   <META NAME="AUTHOR" CONTENT="https://vk.com/glrlcocks">
   <meta name="revisit-after" content="5 days">
   <link rel="SHORTCUT ICON" href="assets/img/air_fav.png" type="image/x-icon">
   <!--соц сети-->
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Школы развития цифровых компетенций и интерактивной робототехники москвы" />
-  <meta property="og:description" content="Школы развития цифровых компетенций и интерактивной робототехники москвы" />
+  <meta property="og:title" content="'Цифровая Москва' глазами детей и молодежи" />
+  <meta property="og:description" content="'Цифровая Москва' глазами детей и молодежи" />
   <meta property="og:image" content="assets/img/123.png"  />
-  <meta property="og:url" content="Школы развития цифровых компетенций и интерактивной робототехники москвы" />
-  <meta property="og:site_name" content="Школы развития цифровых компетенций и интерактивной робототехники москвы" />
+  <meta property="og:url" content="'Цифровая Москва' глазами детей и молодежи" />
+  <meta property="og:site_name" content="'Цифровая Москва' глазами детей и молодежи" />
 
   <link rel="stylesheet" href="assets/css/materialize.css">
   <link rel="stylesheet" href="assets/css/main.css">

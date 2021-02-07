@@ -13,7 +13,7 @@
 <section id="tabs">
       <ul class="tabs">
         <li class="tab col s3"><a href="#test1" class="right_pald active">Что ждет участников</a></li>
-        <li class="tab col s3"><a href="#test2" class="right_pald">Правила участия</a></li>
+        <!-- <li class="tab col s3"><a href="#test2" class="right_pald">Правила участия</a></li> -->
         <li class="tab col s3"><a href="#test3">Медиа</a></li>
       </ul>
     <div class="container">
@@ -43,7 +43,7 @@
       </div>
     </div>
         </div>
-        <div id="test2" class="col s12">
+        <!-- <div id="test2" class="col s12">
             <ul class="ul_uachst">
                 <li>Все участники Школы должны зарегистрироваться на официальной интернет странице Школ развития цифровых компетенций и интерактивной робототехники Москвы.</li>
                 <li>Участники, не вовлеченные в команду по итогу второго дня Школы, к участию не допускаются.</li>
@@ -53,7 +53,7 @@
                 <li>Все участники делятся на команды от 6 до 10 человек.</li>
                 <li>Все участники в обязательном порядке являются слушателями образовательной программы.</li>
             </ul>
-        </div>
+        </div> -->
         <div id="test3" class="col s12">
             <div class="flex_img_gal">
                 <div>

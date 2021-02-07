@@ -20,17 +20,17 @@
                     <input type="text" name="contact_email" class="input_footer frm_2" placeholder="E-mail" required>
                 </div>
                 <textarea name="text_contact" class="text_area_footer frm_3" placeholder="Сообщение" required></textarea>
-                <div class="captchajs">
+                <!-- <div class="captchajs">
                     {!! NoCaptcha::renderJs() !!}
                     {!! NoCaptcha::display() !!}
-                </div>
+                </div> -->
                 <div class="col col_footer">
                     <button type="submit" class="waves-effect waves-light btn btn_footer">ОТПРАВИТЬ</button>
                 </div>
             </form>
         </div>
     </div>
-    <div class="footer_all_main">
+    <!-- <div class="footer_all_main">
         <div class="flex_help_footer">
             <div>
                 <img src="assets/img/Group27.png" alt="">
@@ -55,24 +55,5 @@
                 ориентированных НКО Комитета общественных связей и молодежной политики
                 города Москвы</p>
         </div>
-        <!-- Yandex.Metrika informer --> <a href="https://metrika.yandex.ru/stat/?id=56694640&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/56694640/1_0_3F3359FF_3F3359FF_1_pageviews" style="width:80px; height:15px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="56694640" data-lang="ru" /></a> <!-- /Yandex.Metrika informer -->
-        <!-- Yandex.Metrika counter -->
-        <script type="text/javascript">
-            (function(m, e, t, r, i, k, a) {
-                m[i] = m[i] || function() {
-                    (m[i].a = m[i].a || []).push(arguments)
-                };
-                m[i].l = 1 * new Date();
-                k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
-            })(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-            ym(56694640, "init", {
-                clickmap: true,
-                trackLinks: true,
-                accurateTrackBounce: true
-            });
-        </script> <noscript>
-            <div><img src="https://mc.yandex.ru/watch/56694640" style="position:absolute; left:-9999px;" alt="" /></div>
-        </noscript> <!-- /Yandex.Metrika counter -->
-        <!-- /Yandex.Metrika counter -->
-    </div>
+    </div> -->
 </footer>

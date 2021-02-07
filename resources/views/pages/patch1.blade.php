@@ -6,17 +6,17 @@
 <div class="container">
 <div class="row">
 <div class="green_header_uchast">
-    <h1>ЗEЛ АДМИНИСТРАТИВНЫЙ ОКРУГ</h1>
+    <!-- <h1>ЗEЛ АДМИНИСТРАТИВНЫЙ ОКРУГ</h1> -->
     <h3>дата мероприятия будет известна чуть позже</h3>
-    <p>г. Москва, Большая Новодмитровская ул., 36, стр. 12</p>
+    <!-- <p>г. Москва, Большая Новодмитровская ул., 36, стр. 12</p> -->
 <div class="col">
-<a class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a>
+<!-- <a class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a> -->
 </div>
 </div>
 </div>
 </div>
 </section>
-<section id="content">
+<section id="content" style="padding-bottom: 120px;">
 <div class="container">
     <div class="row">
         <h2>ПРОГРАММА МЕРОПРИЯТИЯ</h2>
@@ -24,7 +24,7 @@
     </div>
 </div>
 </section>
-<section id="rucovodstvo" style="margin-top:73px; margin-bottom:194px;">
+<!-- <section id="rucovodstvo" style="margin-top:73px; margin-bottom:194px;">
 <div class="container">
   <div class="row">
     <div class="flex_ruko" style="background-color:#F7F7F7;background-image: url(assets/img/Group223.png);">
@@ -39,5 +39,5 @@
     </div>
   </div>
 </div>
-</section>
+</section> -->
 @endsection
