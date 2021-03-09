@@ -355,6 +355,9 @@
         <div>
           <a href="http://xn--80adfe5b7a9ayd.xn--80adxhks/ru-RU/about-us.html"><img src="assets/img/3081-EventAnnounce-1-498-src-1511506680_0276.jpg" alt="" style="    width: 250px;"></a>
         </div>
+        <div>
+          <a href="https://zenit3d.ru/"><img src="assets/img/Zenit.png" alt="" style="    width: 250px;"></a>
+        </div>
       </div>
     </div>
   </div>
