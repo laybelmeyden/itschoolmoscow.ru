@@ -7,9 +7,9 @@
 <div class="row">
 <div class="green_header_uchast">
     <h1>СЕВЕРО-ВОСТОЧНЫЙ АДМИНИСТРАТИВНЫЙ ОКРУГ</h1>
-    <h3>25-26 февраля 2020 год</h3>
-    <p style="line-height: 20px;">ГБОУ "Школа №760 им. А.П.Маресьева"</p>
-    <p style="line-height: 20px;">Ярославское шоссе, 147. Актовый зал (2 этаж)</p>
+    <h3>Начало в 13:30</h3>
+    <!-- <p style="line-height: 20px;">ГБОУ "Школа №760 им. А.П.Маресьева"</p> -->
+    <p style="line-height: 20px;">Мероприятие пройдет в Школе имени В. В. Маяковского по адресу: 1-я Дубровская ул. д. 16 - Юго-Восточный административный округ</p>
 </div>
 </div>
 </div>
@@ -18,7 +18,16 @@
 <div class="container">
     <div class="row">
         <h2>ПРОГРАММА МЕРОПРИЯТИЯ</h2>
-        <div class="grid_two">
+        <div class="district_btn" style="display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom:120px;">
+          <div class="district_btn_flex">
+          <a href="https://moscowkids2021.ru//storage/raspisanieVRAR.xlsx" class="waves-effect waves-light btn btn_footer">ПРОГРАММА</a>
+          <!-- <a href="https://rusinnovations.timepad.ru/event/1254275/" class="waves-effect waves-light btn btn_footer">УЧАСТВОВАТЬ</a> -->
+          </div>
+          </div>
+        <!-- <div class="grid_two">
           <div>
           <p><a>Дата: 25 февраля, Время: 13:30 до 15:00</a></p>
           <p><a>День 1 (6-8 класс)</a></p>
@@ -39,11 +48,11 @@
           </div>
           </div>
           </div>
-        </div>
+        </div> -->
     </div>
 </div>
 </section>
-<section id="rucovodstvo" style="margin-top:73px;">
+<!-- <section id="rucovodstvo" style="margin-top:73px;">
 <div class="container">
   <div class="row">
     <div class="flex_ruko" style="background-color:#F7F7F7;background-image: url(assets/img/Group223.png);">
@@ -58,8 +67,8 @@
     </div>
   </div>
 </div>
-</section>
-<section id="speakers" style="margin-bottom:60px;">
+</section> -->
+<!-- <section id="speakers" style="margin-bottom:60px;">
   <div class="container">
     <div class="row">
     <h1 style="margin-top: 100px;">СПИКЕРЫ</h1>
@@ -76,11 +85,11 @@
     </div>
     </div>
   </div>
-</section>
-<section id="maps_district">
+</section> -->
+<!-- <section id="maps_district">
   <div class="maps_district_analog">
     <p>ГБОУ "Школа №760 им. А.П.Маресьева", адрес: Ярославское шоссе, 147. Актовый зал (2 этаж)</p>
   </div>
   <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A4a74408d81ba110539130ff726d401e7cac530367ca7610e3932f0fabb1caf86&amp;source=constructor" width="100%" height="400" frameborder="0"></iframe>
-</section>
+</section> -->
 @endsection

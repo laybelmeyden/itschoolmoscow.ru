@@ -114,10 +114,10 @@
     <p>Выберите свой округ на карте Москвы <br>или введите его название в поле ниже</p>
     <select class="select_maps_main" id="sel_1">
       <option value="nons" disabled selected>Выберите Ваш Административный округ</option>
-      <option value="name1">Зеленоградский Административный округ</option>
-      <option value="name2">Северный Административный округ</option>
+      <!-- <option value="name1">Зеленоградский Административный округ</option>
+      <option value="name2">Северный Административный округ</option> -->
       <option value="name3">Северо-Восточный Административный округ</option>
-      <option value="name4">Восточный Административный округ</option>
+      <!-- <option value="name4">Восточный Административный округ</option>
       <option value="name5">Центральный Административный округ</option>
       <option value="name6">Юго-Восточный Административный округ</option>
       <option value="name7">Южный Административный округ</option>
@@ -125,10 +125,10 @@
       <option value="name9">Западный Административный округ</option>
       <option value="name10">Северо-Западный Административный округ</option>
       <option value="name11">Новомосковский Административный округ</option>
-      <option value="name12">Троицкий Административный округ</option>
+      <option value="name12">Троицкий Административный округ</option> -->
     </select>
     <div class="padding_btn">
-      <a href="#" class="waves-effect waves-light btn" id="btn_maps">мероприятие подготавливается</a>
+      <a href="#" class="waves-effect waves-light btn" id="btn_maps">УЧАСТВОВАТЬ</a>
     </div>
   </div>
   <svg viewBox="-350 50 1151 700">
@@ -155,7 +155,7 @@
         <text class="omsk_text" x="600" y="315" fill="#000000">АО</text>
       </g>
     </a>
-    <a href="/district1">
+    <a href="/district4">
       <g id="g12">
         <path class="tomsk name3" stroke-width="0.1%" stroke="#F6F6F6" fill="#F0F0F0" d="m 609.032,371.04 c 1.014,1.805 -1.534,4.438 -1.278,6.242 0.271,1.909 3.041,7.309 6.091,3.252 3.004,-3.996 3.338,-4.314 4.61,-3.357 1.273,0.956 2.421,6.368 5.015,2.917 2.595,-3.451 3.244,0.353 3.425,1.627 0.181,1.273 -0.17,4.515 0.92,5.335 1.091,0.82 3.203,-5.269 6.281,-6.84 3.078,-1.571 17.392,-8.627 18.439,-10.019 1.047,-1.393 5.888,-9.599 6.797,-8.916 0.909,0.683 2.03,2.094 3.35,0.338 1.32,-1.755 6.23,0.04 7.504,-1.655 1.275,-1.696 2.973,-1.935 2.746,-3.527 -0.226,-1.591 3.897,-1.903 2.303,1.731 -1.594,3.635 -3.822,3.192 -1.459,4.969 2.364,1.776 3.665,5.218 6.909,4.814 3.244,-0.404 4.7,-2.342 7.067,-5.49 2.367,-3.149 -4.998,-5.463 -6.876,-6.876 -1.879,-1.412 8.277,-1.169 10.703,-2.378 2.426,-1.209 3.245,-2.298 4.608,0.053 1.014,1.804 4.425,0.294 6.473,-1.294 -0.136,-0.955 -0.12,-1.606 -0.044,-1.834 0.547,-1.863 -1.15,-3.138 -1.391,-4.836 -0.241,-1.698 -3.629,-12.205 -4.824,-14.904 -1.241,-2.639 -5.592,-1.645 -6.787,-4.723 -1.196,-3.078 -2.773,-1.99 -7.953,-6.832 -5.241,-4.887 -12.539,-15.491 -14.763,-21.238 -2.224,-5.747 -6.859,-9.8 -10.678,-11.155 -3.773,-1.415 -5.046,-2.75 -1.588,-4.7 3.457,-1.95 8.512,-11.322 10.148,-10.471 1.591,0.911 3.501,0.263 4.154,-1.237 0.714,-1.453 1.972,-0.982 3.534,-2.177 1.562,-1.194 0.471,-2.014 -0.317,-2.607 -0.787,-0.592 0.033,-3.576 1.398,-4.635 1.365,-1.058 6.47,4.011 7.379,3.936 0.955,-0.135 1.7,-2.513 2.792,-3.966 1.138,-1.513 -1.786,-3.049 -1.876,-4.064 -0.151,-1.061 -5.76,-0.539 -8.488,-0.695 -2.774,-0.095 -0.407,-3.622 -0.087,-5.183 0.319,-1.56 -4.743,-2.144 -6.396,-1.207 -1.607,0.877 -0.534,4.622 -1.444,5.833 -0.911,1.211 -7.652,-3.573 -10.942,-3.108 -3.183,0.449 -8.751,26.779 -11.722,27.199 0.121,0.47 0.03,0.97 -0.289,1.394 -1.639,2.179 5.84,15.193 1.925,20.4 -3.914,5.208 -9.015,15.778 -12.703,21.818 -3.688,6.041 -4.42,12.693 -8.272,14.157 -3.851,1.464 -8.329,9.944 -8.558,12.52 -0.229,2.576 -2.579,3.178 -1.52,5.68 1.059,2.503 -1.153,1.029 -2.912,1.981 -1.759,0.952 -0.456,2.121 -1.958,4.119 -1.274,1.696 -1.974,5.15 -2.991,7.133 1.394,0.669 3.091,1.566 3.545,2.476 z"></path>
         <text class="omsk_text" x="635" y="330" fill="#000000">Северо-</text>
@@ -224,7 +224,7 @@
     <path stroke-width="0.1%" stroke="#F6F6F6" fill="#F0F0F0" d="m 412.908,410.386 c 3.289,-0.464 1.582,-7.529 1.341,-9.227 -0.242,-1.697 -6.639,-0.631 -6.093,-1.358 0.546,-0.726 -3.273,-1.702 -2.71,-3.459 0.562,-1.757 1.82,-2.422 0.319,-1.56 -1.501,0.861 -2.501,-0.459 -2.727,-2.05 -0.226,-1.592 -5.154,1.053 -6.003,0.415 -0.848,-0.638 1.654,-2.452 1.413,-4.15 0,0 -3.046,-0.868 -6.123,-0.434 -3.078,0.435 -1.156,5.196 -3.611,4.678 -2.455,-0.519 -2.822,2.996 -4.034,2.085 -1.212,-0.911 -1.729,2.301 -5.716,2.81 -3.987,0.509 -3.111,4.769 -4.839,4.417 -1.728,-0.351 -3.579,2.238 -1.609,2.771 1.971,0.534 1.788,1.912 1.788,1.912 -1.398,4.257 25.883,7.708 30.111,8.896 4.228,1.189 4.85,1.75 4.883,-2.205 0.033,-3.955 0.381,-3.03 3.61,-3.541 z"></path>
   </svg>
 </section>
-<!-- <section id="news">
+<section id="news">
   <div class="container">
     <div class="row">
       <h1>НОВОСТИ</h1>
@@ -269,7 +269,7 @@
       </div>
     </div>
   </div>
-</section> -->
+</section>
 <section id="rucovodstvo">
   <div class="container">
     <div class="row">
@@ -293,11 +293,11 @@
       <div class="flex_all_speak">
         <div class="flex_speak">
           <div class="img_speak">
-            <img src="assets/img/sp3.png" alt="">
+            <img src="assets/img/photo_2021-03-09_18-17-57.jpg" alt="" style="filter: grayscale(1);">
           </div>
           <div class="text_speak">
-            <p>Матвей Бебенин</p>
-            <h2>НИУ ВШЭ, 2018-2019 Бэк-энд разработчик в RuTube. 2017-2018 Руководитель бэк-энд разработки в креативном агентстве SVMD (разработка ассистента проективной аналитики Actin), в настоящее время менеджер по продукту MedPoint24</h2>
+            <p>Дмитрий Ветров</p>
+            <h2>МГТУ СТАНКИН, направления подготовки: робототехника и мехатроника. 2019 системный интегратор на фармацевтическом заводе, 2019-2020 backend разработчик, 2020 - младший специалист по автоматизации, 2020 Coddy преподаватель python, c/c++</h2>
           </div>
         </div>
         <div class="flex_speak">
@@ -318,11 +318,11 @@
     <div class="row">
       <div class="flex_ruko" style="background-color:#F7F7F7;background-image: url(assets/img/Group223.png);">
         <div class="img_ruko">
-          <img src="assets/img/sp4.png" alt="">
+          <img src="assets/img/Nikita4.png" alt="">
         </div>
         <div class="text_ruko">
           <p style="color: #5D4A86;">КУРАТОР ШКОЛЫ</p>
-          <h2 style="color: #3F3359;">Владимир Шульгин</h2>
+          <h2 style="color: #3F3359;">Никита Сергеев</h2>
           <h3 style="color: #3F3359;">Руководитель проектов АНО "АИР"</h3>
         </div>
       </div>
@@ -362,73 +362,73 @@
     </div>
   </div>
 </section>
-<!-- <script>
+<script>
   const removeClasses = (el) => el.classList.remove('htc');
 
   document.getElementById("sel_1").onchange = (event) => {
     if (event.target.value == "nons") {
 
     }
-    if (event.target.value == "name1") {
-      document.querySelectorAll('path').forEach(removeClasses)
-      document.querySelector(".name1").classList.add('htc');
-      document.querySelector("#btn_maps").href = "/district1";
-    }
-    if (event.target.value == "name2") {
-      document.querySelectorAll('path').forEach(removeClasses)
-      document.querySelector(".name2").classList.add('htc');
-      document.querySelector("#btn_maps").href = "/district3";
-    }
+    // if (event.target.value == "name1") {
+    //   document.querySelectorAll('path').forEach(removeClasses)
+    //   document.querySelector(".name1").classList.add('htc');
+    //   document.querySelector("#btn_maps").href = "/district1";
+    // }
+    // if (event.target.value == "name2") {
+    //   document.querySelectorAll('path').forEach(removeClasses)
+    //   document.querySelector(".name2").classList.add('htc');
+    //   document.querySelector("#btn_maps").href = "/district3";
+    // }
     if (event.target.value == "name3") {
       document.querySelectorAll('path').forEach(removeClasses)
       document.querySelector(".name3").classList.add('htc');
       document.querySelector("#btn_maps").href = "/district4";
     }
-    if (event.target.value == "name4") {
-      document.querySelectorAll('path').forEach(removeClasses)
-      document.querySelector(".name4").classList.add('htc');
-      document.querySelector("#btn_maps").href = "/district5";
-    }
-    if (event.target.value == "name5") {
-      document.querySelectorAll('path').forEach(removeClasses)
-      document.querySelector(".name5").classList.add('htc');
-      document.querySelector("#btn_maps").href = "/district10";
-    }
-    if (event.target.value == "name6") {
-      document.querySelectorAll('path').forEach(removeClasses)
-      document.querySelector(".name6").classList.add('htc');
-      document.querySelector("#btn_maps").href = "/district6";
-    }
-    if (event.target.value == "name7") {
-      document.querySelectorAll('path').forEach(removeClasses)
-      document.querySelector(".name7").classList.add('htc');
-      document.querySelector("#btn_maps").href = "/district7";
-    }
-    if (event.target.value == "name8") {
-      document.querySelectorAll('path').forEach(removeClasses)
-      document.querySelector(".name8").classList.add('htc');
-      document.querySelector("#btn_maps").href = "/district8";
-    }
-    if (event.target.value == "name9") {
-      document.querySelectorAll('path').forEach(removeClasses)
-      document.querySelector(".name9").classList.add('htc');
-      document.querySelector("#btn_maps").href = "/district9";
-    }
-    if (event.target.value == "name10") {
-      document.querySelectorAll('path').forEach(removeClasses)
-      document.querySelector(".name10").classList.add('htc');
-      document.querySelector("#btn_maps").href = "/district2";
-    }
-    if (event.target.value == "name11") {
-      document.querySelectorAll('path').forEach(removeClasses)
-      document.querySelector(".name11").classList.add('htc');
-      document.querySelector("#btn_maps").href = "/district11";
-    }
-    if (event.target.value == "name12") {
-      document.querySelectorAll('path').forEach(removeClasses)
-      document.querySelector(".name12").classList.add('htc');
-      document.querySelector("#btn_maps").href = "/district12";
-    }
+    // if (event.target.value == "name4") {
+    //   document.querySelectorAll('path').forEach(removeClasses)
+    //   document.querySelector(".name4").classList.add('htc');
+    //   document.querySelector("#btn_maps").href = "/district5";
+    // }
+    // if (event.target.value == "name5") {
+    //   document.querySelectorAll('path').forEach(removeClasses)
+    //   document.querySelector(".name5").classList.add('htc');
+    //   document.querySelector("#btn_maps").href = "/district10";
+    // }
+    // if (event.target.value == "name6") {
+    //   document.querySelectorAll('path').forEach(removeClasses)
+    //   document.querySelector(".name6").classList.add('htc');
+    //   document.querySelector("#btn_maps").href = "/district6";
+    // }
+    // if (event.target.value == "name7") {
+    //   document.querySelectorAll('path').forEach(removeClasses)
+    //   document.querySelector(".name7").classList.add('htc');
+    //   document.querySelector("#btn_maps").href = "/district7";
+    // }
+    // if (event.target.value == "name8") {
+    //   document.querySelectorAll('path').forEach(removeClasses)
+    //   document.querySelector(".name8").classList.add('htc');
+    //   document.querySelector("#btn_maps").href = "/district8";
+    // }
+    // if (event.target.value == "name9") {
+    //   document.querySelectorAll('path').forEach(removeClasses)
+    //   document.querySelector(".name9").classList.add('htc');
+    //   document.querySelector("#btn_maps").href = "/district9";
+    // }
+    // if (event.target.value == "name10") {
+    //   document.querySelectorAll('path').forEach(removeClasses)
+    //   document.querySelector(".name10").classList.add('htc');
+    //   document.querySelector("#btn_maps").href = "/district2";
+    // }
+    // if (event.target.value == "name11") {
+    //   document.querySelectorAll('path').forEach(removeClasses)
+    //   document.querySelector(".name11").classList.add('htc');
+    //   document.querySelector("#btn_maps").href = "/district11";
+    // }
+    // if (event.target.value == "name12") {
+    //   document.querySelectorAll('path').forEach(removeClasses)
+    //   document.querySelector(".name12").classList.add('htc');
+    //   document.querySelector("#btn_maps").href = "/district12";
+    // }
   }
-</script> -->
+</script>
 @endsection
